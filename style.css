@@ -1,0 +1,23 @@
+.bg-blue{
+    background-color: #0000ffcb;
+}
+
+.counter-heading{
+    text-decoration: underline;
+    padding: 50px 0px;
+    text-align: center;
+    font-size: 3rem;
+}
+
+.counter-number{
+    text-align: center;
+    padding-top: 70px;
+    font-size: 4rem;
+}
+
+.plus-minus{
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+}
